@@ -4,8 +4,6 @@ that implements the user's accommodation reservation system and the business ope
 
 **야놀자** 애플리케이션을 기반으로 `숙박예약 시스템`을 구현하는 프로젝트이다.
 
-You can access this link <https://ga-000.github.io/Yanolja_Reservation_System/>
-
 <br/>
 
 ## 🔊 개요
